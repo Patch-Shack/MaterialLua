@@ -3,7 +3,7 @@ skipping = false
 Audio = game:GetService("Workspace")["GLOBAL_SOUND"]
 fun = false
 
-local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Patch-Shack/MaterialLua/main/Module.lua"))()
 
 local UI = Material.Load({
      Title = "Club DJ fucker",
